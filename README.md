@@ -1,0 +1,2 @@
+# STFGoogleScholar
+Friendly~
